@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/c40374230bd24df69574c71ef710e675/artifacts
+end_time: 1746654633594
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: c40374230bd24df69574c71ef710e675
+run_name: fearless-donkey-457
+run_uuid: c40374230bd24df69574c71ef710e675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654628260
+status: 3
+tags: []
+user_id: Bruh

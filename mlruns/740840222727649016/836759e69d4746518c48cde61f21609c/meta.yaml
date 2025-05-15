@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/836759e69d4746518c48cde61f21609c/artifacts
+end_time: 1746655221521
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 836759e69d4746518c48cde61f21609c
+run_name: RandomForest
+run_uuid: 836759e69d4746518c48cde61f21609c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746655216473
+status: 3
+tags: []
+user_id: Bruh

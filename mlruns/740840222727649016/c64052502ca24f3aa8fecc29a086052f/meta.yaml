@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/c64052502ca24f3aa8fecc29a086052f/artifacts
+end_time: 1746654507633
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: c64052502ca24f3aa8fecc29a086052f
+run_name: fearless-crane-149
+run_uuid: c64052502ca24f3aa8fecc29a086052f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654503184
+status: 3
+tags: []
+user_id: Bruh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/832e51d176e544c69ae9b43e904b1675/artifacts
+end_time: 1746655388864
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 832e51d176e544c69ae9b43e904b1675
+run_name: GradientBoosting
+run_uuid: 832e51d176e544c69ae9b43e904b1675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746655383981
+status: 3
+tags: []
+user_id: Bruh

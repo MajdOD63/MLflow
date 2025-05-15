@@ -1,0 +1,12 @@
+student_id,age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,exam_score
+S1005,22,Male,3.5,2.1,1.8,Yes,92.4,7.2,Good,4,Bachelor,Good,7,Yes,78.5
+S1006,18,Female,1.2,4.0,2.5,No,88.7,6.8,Fair,2,High School,Poor,5,No,65.3
+S1007,24,Female,5.8,1.7,0.7,Yes,96.1,8.1,Good,5,Master,Excellent,8,Yes,89.2
+S1008,20,Male,0.9,3.3,1.9,No,75.5,5.4,Poor,1,High School,Average,4,No,48.7
+S1009,21,Male,4.0,2.9,2.2,Yes,98.2,7.5,Good,3,Bachelor,Good,9,Yes,91.0
+S1010,19,Female,2.3,5.0,3.1,No,82.3,6.2,Fair,2,High School,Poor,6,No,58.4
+S1011,23,Male,6.1,1.1,0.4,Yes,99.0,8.5,Good,6,Master,Excellent,9,Yes,94.7
+S1012,20,Female,3.0,2.5,2.8,No,89.9,7.0,Fair,3,Bachelor,Good,7,No,72.1
+S1013,22,Male,1.5,4.2,4.0,No,70.2,5.9,Poor,1,High School,Poor,3,No,41.6
+S1014,21,Female,5.2,1.9,1.0,Yes,93.7,8.0,Good,4,Master,Good,8,Yes,85.8
+S1015,24,Male,7.0,1.2,0.1,Yes,84.5,7.8,Fair,1,Master,Average,5,No,100.0

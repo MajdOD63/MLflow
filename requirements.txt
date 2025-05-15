@@ -1,0 +1,12 @@
+MLflow >= 2.15.1
+pandas
+numpy
+scikit-learn
+hyperopt
+flask
+joblib
+numpy
+virtualenv
+mlflow[extras]
+mlserver
+mlserver-mlflow

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/1acd38f154764a6a92560c9ca68d9315/artifacts
+end_time: 1746654563336
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 1acd38f154764a6a92560c9ca68d9315
+run_name: chill-vole-208
+run_uuid: 1acd38f154764a6a92560c9ca68d9315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654558366
+status: 3
+tags: []
+user_id: Bruh

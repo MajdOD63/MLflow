@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/2052e74d019d46b8b41329a13d62d605/artifacts
+end_time: 1746654493174
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 2052e74d019d46b8b41329a13d62d605
+run_name: upset-robin-396
+run_uuid: 2052e74d019d46b8b41329a13d62d605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654487751
+status: 3
+tags: []
+user_id: Bruh
