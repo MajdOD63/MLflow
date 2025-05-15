@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/3e7b0c95a0cc4dcd953ed583996384b6/artifacts
+end_time: 1746654549136
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 3e7b0c95a0cc4dcd953ed583996384b6
+run_name: nimble-auk-459
+run_uuid: 3e7b0c95a0cc4dcd953ed583996384b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654544554
+status: 3
+tags: []
+user_id: Bruh

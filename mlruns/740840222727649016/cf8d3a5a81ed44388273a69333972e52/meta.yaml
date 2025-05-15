@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/cf8d3a5a81ed44388273a69333972e52/artifacts
+end_time: 1746654613227
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: cf8d3a5a81ed44388273a69333972e52
+run_name: auspicious-fawn-559
+run_uuid: cf8d3a5a81ed44388273a69333972e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654607959
+status: 3
+tags: []
+user_id: Bruh

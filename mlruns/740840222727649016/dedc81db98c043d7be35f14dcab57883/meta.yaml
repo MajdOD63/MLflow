@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/dedc81db98c043d7be35f14dcab57883/artifacts
+end_time: 1746654607942
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: dedc81db98c043d7be35f14dcab57883
+run_name: efficient-cow-194
+run_uuid: dedc81db98c043d7be35f14dcab57883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654602707
+status: 3
+tags: []
+user_id: Bruh

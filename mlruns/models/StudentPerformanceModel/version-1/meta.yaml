@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746655638886
+current_stage: Production
+description: null
+last_updated_timestamp: 1746655638925
+name: StudentPerformanceModel
+run_id: fcb52498c65548239bc6e7f82b6a4bba
+run_link: null
+source: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/fcb52498c65548239bc6e7f82b6a4bba/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/fcb52498c65548239bc6e7f82b6a4bba/artifacts/model
+user_id: null
+version: 1

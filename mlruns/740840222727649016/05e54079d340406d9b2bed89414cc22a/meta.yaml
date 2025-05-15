@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/05e54079d340406d9b2bed89414cc22a/artifacts
+end_time: 1746655421363
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 05e54079d340406d9b2bed89414cc22a
+run_name: ExtraTrees
+run_uuid: 05e54079d340406d9b2bed89414cc22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746655417104
+status: 3
+tags: []
+user_id: Bruh

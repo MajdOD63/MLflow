@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/92bcbd51e3114f6eb49d41fa76472f3e/artifacts
+end_time: 1746654521454
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: 92bcbd51e3114f6eb49d41fa76472f3e
+run_name: dashing-grub-381
+run_uuid: 92bcbd51e3114f6eb49d41fa76472f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654516797
+status: 3
+tags: []
+user_id: Bruh

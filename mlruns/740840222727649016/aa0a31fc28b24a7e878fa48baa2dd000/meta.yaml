@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bruh/Desktop/uni%20stuff/sem8/MLOPS/project/mlruns/740840222727649016/aa0a31fc28b24a7e878fa48baa2dd000/artifacts
+end_time: 1746654498524
+entry_point_name: ''
+experiment_id: '740840222727649016'
+lifecycle_stage: active
+run_id: aa0a31fc28b24a7e878fa48baa2dd000
+run_name: placid-bear-581
+run_uuid: aa0a31fc28b24a7e878fa48baa2dd000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746654493190
+status: 3
+tags: []
+user_id: Bruh
